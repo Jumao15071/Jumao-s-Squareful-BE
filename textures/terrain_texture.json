@@ -4442,6 +4442,30 @@
                         }
                     ]
                 },
+                {
+                    "variations": [
+                        {
+                            "overlay_color": "#778272",
+                            "path": "textures/blocks/grass_side",
+                            "weight": 18
+                        },
+                        {
+                            "overlay_color": "#778272",
+                            "path": "textures/blocks/grass_side2",
+                            "weight": 2
+                        },
+                        {
+                            "overlay_color": "#778272",
+                            "path": "textures/blocks/grass_side3",
+                            "weight": 2
+                        },
+                        {
+                            "overlay_color": "#778272",
+                            "path": "textures/blocks/grass_side",
+                            "weight": 1
+                        }
+                    ]
+                },
                 "textures/blocks/grass_block_snow"
             ]
         },
