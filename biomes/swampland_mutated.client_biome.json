@@ -1,0 +1,16 @@
+{
+  "format_version": "1.21.120",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "minecraft:swampland_mutated"
+    },
+    "components": {
+      "minecraft:fog_appearance": {
+        "fog_identifier": "xk:fog_swampland_mutated"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#4C6559"
+      }
+    }
+  }
+}

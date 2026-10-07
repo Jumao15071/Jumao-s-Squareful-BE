@@ -550,7 +550,8 @@
                 "textures/items/tipped_arrow/tipped_arrow_wind_charging",
                 "textures/items/tipped_arrow/tipped_arrow_weaving",
                 "textures/items/tipped_arrow/tipped_arrow_oozing",
-                "textures/items/tipped_arrow/tipped_arrow_infestation"
+                "textures/items/tipped_arrow/tipped_arrow_infestation",
+                "textures/items/tipped_arrow/tipped_arrow_freezing"
             ]
         },
         "potion_bottle_drinkable": {

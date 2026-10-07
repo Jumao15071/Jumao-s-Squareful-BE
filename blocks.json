@@ -1,4 +1,179 @@
 {
+    "acacia_door": {
+        "textures": {
+            "up": "acacia_door_bottom",
+            "down": "acacia_door_bottom",
+            "side": "acacia_door_top"
+        }
+    },
+    "bamboo_door": {
+        "textures": {
+            "up": "bamboo_door_bottom",
+            "down": "bamboo_door_bottom",
+            "side": "bamboo_door_top"
+        }
+    },
+    "birch_door": {
+        "textures": {
+            "up": "birch_door_bottom",
+            "down": "birch_door_bottom",
+            "side": "birch_door_top"
+        }
+    },
+    "cherry_door": {
+        "textures": {
+            "up": "cherry_door_bottom",
+            "down": "cherry_door_bottom",
+            "side": "cherry_door_top"
+        }
+    },
+    "crimson_door": {
+        "textures": {
+            "up": "crimson_door_bottom",
+            "down": "crimson_door_bottom",
+            "side": "crimson_door_top"
+        }
+    },
+    "iron_door": {
+        "textures": {
+            "up": "iron_door_bottom",
+            "down": "iron_door_bottom",
+            "side": "iron_door_top"
+        }
+    },
+    "jungle_door": {
+        "textures": {
+            "up": "jungle_door_bottom",
+            "down": "jungle_door_bottom",
+            "side": "jungle_door_top"
+        }
+    },
+    "mangrove_door": {
+        "textures": {
+            "up": "mangrove_door_bottom",
+            "down": "mangrove_door_bottom",
+            "side": "mangrove_door_top"
+        }
+    },
+    "spruce_door": {
+        "textures": {
+            "up": "spruce_door_bottom",
+            "down": "spruce_door_bottom",
+            "side": "spruce_door_top"
+        }
+    },
+    "warped_door": {
+        "textures": {
+            "up": "warped_door_bottom",
+            "down": "warped_door_bottom",
+            "side": "warped_door_top"
+        }
+    },
+    "oak_door": {
+        "textures": {
+            "up": "oak_door_bottom",
+            "down": "oak_door_bottom",
+            "side": "oak_door_top"
+        }
+    },
+    "acacia_trapdoor": {
+        "textures": {
+            "up": "acacia_trapdoor",
+            "down": "acacia_trapdoor_flip",
+            "side": "acacia_trapdoor"
+        }
+    },
+    "bamboo_trapdoor": {
+        "textures": {
+            "up": "bamboo_trapdoor",
+            "down": "bamboo_trapdoor_flip",
+            "side": "bamboo_trapdoor"
+        }
+    },
+    "birch_trapdoor": {
+        "textures": {
+            "up": "birch_trapdoor",
+            "down": "birch_trapdoor_flip",
+            "side": "birch_trapdoor"
+        }
+    },
+    "cherry_trapdoor": {
+        "textures": {
+            "up": "cherry_trapdoor",
+            "down": "cherry_trapdoor_flip",
+            "side": "cherry_trapdoor"
+        }
+    },
+    "crimson_trapdoor": {
+        "textures": {
+            "up": "crimson_trapdoor",
+            "down": "crimson_trapdoor_flip",
+            "side": "crimson_trapdoor"
+        }
+    },
+    "dark_oak_trapdoor": {
+        "textures": {
+            "up": "dark_oak_trapdoor",
+            "down": "dark_oak_trapdoor_flip",
+            "side": "dark_oak_trapdoor"
+        }
+    },
+    "jungle_trapdoor": {
+        "textures": {
+            "up": "jungle_trapdoor",
+            "down": "jungle_trapdoor_flip",
+            "side": "jungle_trapdoor"
+        }
+    },
+    "mangrove_trapdoor": {
+        "textures": {
+            "up": "mangrove_trapdoor",
+            "down": "mangrove_trapdoor_flip",
+            "side": "mangrove_trapdoor"
+        }
+    },
+    "pale_oak_trapdoor": {
+        "textures": {
+            "up": "pale_oak_trapdoor",
+            "down": "pale_oak_trapdoor_flip",
+            "side": "pale_oak_trapdoor"
+        }
+    },
+    "poplar_trapdoor": {
+        "textures": {
+            "up": "poplar_trapdoor",
+            "down": "poplar_trapdoor_flip",
+            "side": "poplar_trapdoor"
+        }
+    },
+    "spruce_trapdoor": {
+        "textures": {
+            "up": "spruce_trapdoor",
+            "down": "spruce_trapdoor_flip",
+            "side": "spruce_trapdoor"
+        }
+    },
+    "trapdoor": {
+        "textures": {
+            "up": "oak_trapdoor",
+            "down": "oak_trapdoor",
+            "side": "oak_trapdoor_flip"
+        }
+    },
+    "warped_trapdoor": {
+        "textures": {
+            "up": "warped_trapdoor",
+            "down": "warped_trapdoor_flip",
+            "side": "warped_trapdoor"
+        }
+    },
+    "iron_trapdoor": {
+        "textures": {
+            "up": "iron_trapdoor",
+            "down": "iron_trapdoor_flip",
+            "side": "iron_trapdoor"
+        }
+    },
     "white_wool_stairs": {
         "textures": "white_wool_stairs"
     },
@@ -296,6 +471,98 @@
     "yellow_poplar_leaves": {
         "textures": "yellow_poplar_leaves"
     },
+    "acacia_leaves": {
+        "carried_textures": "acacia_leaves_carried",
+        "isotropic": {
+            "down": true,
+            "up": true
+        },
+        "textures": "acacia_leaves"
+    },
+    "azalea_leaves": {
+        "isotropic": {
+            "down": true,
+            "up": true
+        },
+        "textures": {
+            "down": "azalea_leaves_top",
+            "side": "azalea_leaves_side",
+            "up": "azalea_leaves_top"
+        }
+    },
+    "azalea_leaves_flowered": {
+        "isotropic": {
+            "down": true,
+            "up": true
+        },
+        "textures": {
+            "down": "azalea_leaves_flowered_top",
+            "side": "azalea_leaves_flowered_side",
+            "up": "azalea_leaves_flowered_top"
+        }
+    },
+    "birch_leaves": {
+        "carried_textures": "birch_leaves_carried",
+        "isotropic": {
+            "down": true,
+            "up": true
+        },
+        "textures": "birch_leaves"
+    },
+    "cherry_leaves": {
+        "textures": "cherry_leaves"
+    },
+    "dark_oak_leaves": {
+        "carried_textures": "big_oak_leaves_carried",
+        "isotropic": {
+            "down": true,
+            "up": true
+        },
+        "textures": "big_oak_leaves"
+    },
+    "jungle_leaves": {
+        "carried_textures": "jungle_leaves_carried",
+        "isotropic": {
+            "down": true,
+            "up": true
+        },
+        "textures": "jungle_leaves"
+    },
+    "mangrove_leaves": {
+        "carried_textures": {
+            "down": "mangrove_leaves_top_carried",
+            "side": "mangrove_leaves_side_carried",
+            "up": "mangrove_leaves_top_carried"
+        },
+        "isotropic": {
+            "down": true,
+            "up": true
+        },
+        "textures": {
+            "down": "mangrove_leaves_top",
+            "side": "mangrove_leaves_side",
+            "up": "mangrove_leaves_top"
+        }
+    },
+    "oak_leaves": {
+        "carried_textures": "oak_leaves_carried",
+        "isotropic": {
+            "down": true,
+            "up": true
+        },
+        "textures": "oak_leaves"
+    },
+    "pale_oak_leaves": {
+        "textures": "pale_oak_leaves"
+    },
+    "spruce_leaves": {
+        "carried_textures": "spruce_leaves_carried",
+        "isotropic": {
+            "down": true,
+            "up": true
+        },
+        "textures": "spruce_leaves"
+    },
     "petrified_oak_double_slab": {
         "textures": {
             "down": "petrified_oak_planks_top",
@@ -494,14 +761,6 @@
             "west": "pitcher_crop_upper_flower"
         }
     },
-    "double_plant": {
-        "carried_textures": "double_plant_carried",
-        "textures": {
-            "down": "double_plant_bottom",
-            "side": "sunflower_additional",
-            "up": "double_plant_top"
-        }
-    },
     "fern": {
         "carried_textures": "fern_carried",
         "sound": "grass",
@@ -547,10 +806,6 @@
             "side": "sunflower_additional",
             "up": "tall_grass_top"
         }
-    },
-    "tallgrass": {
-        "carried_textures": "tallgrass_carried",
-        "textures": "tallgrass"
     },
     "seagrass": {
         "carried_textures": "seagrass_carried",
@@ -1021,6 +1276,342 @@
         "carried_textures": "glow_lichen_carried",
         "textures": "glow_lichen"
     },
+    "copper_block": {
+        "textures": "copper_block"
+    },
+    "exposed_copper": {
+        "textures": "exposed_copper"
+    },
+    "weathered_copper": {
+        "textures": "weathered_copper"
+    },
+    "oxidized_copper": {
+        "textures": "oxidized_copper"
+    },
+    "waxed_copper": {
+        "carried_textures": "waxed_copper_block_carried",
+        "textures": "copper_block"
+    },
+    "waxed_exposed_copper": {
+        "carried_textures": "waxed_exposed_copper_block_carried",
+        "textures": "exposed_copper"
+    },
+    "waxed_weathered_copper": {
+        "carried_textures": "waxed_weathered_copper_block_carried",
+        "textures": "weathered_copper"
+    },
+    "waxed_oxidized_copper": {
+        "carried_textures": "waxed_oxidized_copper_block_carried",
+        "textures": "oxidized_copper"
+    },
+    "cut_copper": {
+        "textures": "cut_copper"
+    },
+    "exposed_cut_copper": {
+        "textures": "exposed_cut_copper"
+    },
+    "weathered_cut_copper": {
+        "textures": "weathered_cut_copper"
+    },
+    "oxidized_cut_copper": {
+        "textures": "oxidized_cut_copper"
+    },
+    "waxed_cut_copper": {
+        "carried_textures": "waxed_cut_copper_carried",
+        "textures": "cut_copper"
+    },
+    "waxed_exposed_cut_copper": {
+        "carried_textures": "waxed_exposed_cut_copper_carried",
+        "textures": "exposed_cut_copper"
+    },
+    "waxed_weathered_cut_copper": {
+        "carried_textures": "waxed_weathered_cut_copper_carried",
+        "textures": "weathered_cut_copper"
+    },
+    "waxed_oxidized_cut_copper": {
+        "carried_textures": "waxed_oxidized_cut_copper_carried",
+        "textures": "oxidized_cut_copper"
+    },
+    "cut_copper_slab": {
+        "textures": "cut_copper"
+    },
+    "exposed_cut_copper_slab": {
+        "textures": "exposed_cut_copper"
+    },
+    "weathered_cut_copper_slab": {
+        "textures": "weathered_cut_copper"
+    },
+    "oxidized_cut_copper_slab": {
+        "textures": "oxidized_cut_copper"
+    },
+    "waxed_cut_copper_slab": {
+        "carried_textures": "waxed_cut_copper_carried",
+        "textures": "cut_copper"
+    },
+    "waxed_exposed_cut_copper_slab": {
+        "carried_textures": "waxed_exposed_cut_copper_carried",
+        "textures": "exposed_cut_copper"
+    },
+    "waxed_weathered_cut_copper_slab": {
+        "carried_textures": "waxed_weathered_cut_copper_carried",
+        "textures": "weathered_cut_copper"
+    },
+    "waxed_oxidized_cut_copper_slab": {
+        "carried_textures": "waxed_oxidized_cut_copper_carried",
+        "textures": "oxidized_cut_copper"
+    },
+    "cut_copper_stairs": {
+        "textures": "cut_copper"
+    },
+    "exposed_cut_copper_stairs": {
+        "textures": "exposed_cut_copper"
+    },
+    "weathered_cut_copper_stairs": {
+        "textures": "weathered_cut_copper"
+    },
+    "oxidized_cut_copper_stairs": {
+        "textures": "oxidized_cut_copper"
+    },
+    "waxed_cut_copper_stairs": {
+        "carried_textures": "waxed_cut_copper_carried",
+        "textures": "cut_copper"
+    },
+    "waxed_exposed_cut_copper_stairs": {
+        "carried_textures": "waxed_exposed_cut_copper_carried",
+        "textures": "exposed_cut_copper"
+    },
+    "waxed_weathered_cut_copper_stairs": {
+        "carried_textures": "waxed_weathered_cut_copper_carried",
+        "textures": "weathered_cut_copper"
+    },
+    "waxed_oxidized_cut_copper_stairs": {
+        "carried_textures": "waxed_oxidized_cut_copper_carried",
+        "textures": "oxidized_cut_copper"
+    },
+    "double_cut_copper_slab": {
+        "textures": {
+            "down": "cut_copper_top",
+            "side": "cut_copper_side",
+            "up": "cut_copper_top"
+        }
+    },
+    "exposed_double_cut_copper_slab": {
+        "textures": {
+            "down": "exposed_cut_copper_top",
+            "side": "exposed_cut_copper_side",
+            "up": "exposed_cut_copper_top"
+        }
+    },
+    "weathered_double_cut_copper_slab": {
+        "textures": {
+            "down": "weathered_cut_copper_top",
+            "side": "weathered_cut_copper_side",
+            "up": "weathered_cut_copper_top"
+        }
+    },
+    "oxidized_double_cut_copper_slab": {
+        "textures": {
+            "down": "oxidized_cut_copper_top",
+            "side": "oxidized_cut_copper_side",
+            "up": "oxidized_cut_copper_top"
+        }
+    },
+    "waxed_double_cut_copper_slab": {
+        "carried_textures": "waxed_cut_copper_carried",
+        "textures": {
+            "down": "cut_copper_top",
+            "side": "cut_copper_side",
+            "up": "cut_copper_top"
+        }
+    },
+    "waxed_exposed_double_cut_copper_slab": {
+        "carried_textures": "waxed_exposed_cut_copper_carried",
+        "textures": {
+            "down": "exposed_cut_copper_top",
+            "side": "exposed_cut_copper_side",
+            "up": "exposed_cut_copper_top"
+        }
+    },
+    "waxed_weathered_double_cut_copper_slab": {
+        "carried_textures": "waxed_weathered_cut_copper_carried",
+        "textures": {
+            "down": "weathered_cut_copper_top",
+            "side": "weathered_cut_copper_side",
+            "up": "weathered_cut_copper_top"
+        }
+    },
+    "waxed_oxidized_double_cut_copper_slab": {
+        "carried_textures": "waxed_oxidized_cut_copper_carried",
+        "textures": {
+            "down": "oxidized_cut_copper_top",
+            "side": "oxidized_cut_copper_side",
+            "up": "oxidized_cut_copper_top"
+        }
+    },
+    "copper_bulb": {
+        "textures": "copper_bulb"
+    },
+    "exposed_copper_bulb": {
+        "textures": "exposed_copper_bulb"
+    },
+    "weathered_copper_bulb": {
+        "textures": "weathered_copper_bulb"
+    },
+    "oxidized_copper_bulb": {
+        "textures": "oxidized_copper_bulb"
+    },
+    "waxed_copper_bulb": {
+        "carried_textures": "waxed_copper_bulb_carried",
+        "textures": "copper_bulb"
+    },
+    "waxed_exposed_copper_bulb": {
+        "carried_textures": "waxed_exposed_copper_bulb_carried",
+        "textures": "exposed_copper_bulb"
+    },
+    "waxed_weathered_copper_bulb": {
+        "carried_textures": "waxed_weathered_copper_bulb_carried",
+        "textures": "weathered_copper_bulb"
+    },
+    "waxed_oxidized_copper_bulb": {
+        "carried_textures": "waxed_oxidized_copper_bulb_carried",
+        "textures": "oxidized_copper_bulb"
+    },
+    "copper_grate": {
+        "textures": "copper_grate"
+    },
+    "exposed_copper_grate": {
+        "textures": "exposed_copper_grate"
+    },
+    "weathered_copper_grate": {
+        "textures": "weathered_copper_grate"
+    },
+    "oxidized_copper_grate": {
+        "textures": "oxidized_copper_grate"
+    },
+    "waxed_copper_grate": {
+        "carried_textures": "waxed_copper_grate_carried",
+        "textures": "copper_grate"
+    },
+    "waxed_exposed_copper_grate": {
+        "carried_textures": "waxed_exposed_copper_grate_carried",
+        "textures": "exposed_copper_grate"
+    },
+    "waxed_weathered_copper_grate": {
+        "carried_textures": "waxed_weathered_copper_grate_carried",
+        "textures": "weathered_copper_grate"
+    },
+    "waxed_oxidized_copper_grate": {
+        "carried_textures": "waxed_oxidized_copper_grate_carried",
+        "textures": "oxidized_copper_grate"
+    },
+    "chiseled_copper": {
+        "textures": "chiseled_copper"
+    },
+    "exposed_chiseled_copper": {
+        "textures": "exposed_chiseled_copper"
+    },
+    "weathered_chiseled_copper": {
+        "textures": "weathered_chiseled_copper"
+    },
+    "oxidized_chiseled_copper": {
+        "textures": "oxidized_chiseled_copper"
+    },
+    "waxed_chiseled_copper": {
+        "carried_textures": "waxed_chiseled_copper_carried",
+        "textures": "chiseled_copper"
+    },
+    "waxed_exposed_chiseled_copper": {
+        "carried_textures": "waxed_exposed_chiseled_copper_carried",
+        "textures": "exposed_chiseled_copper"
+    },
+    "waxed_weathered_chiseled_copper": {
+        "carried_textures": "waxed_weathered_chiseled_copper_carried",
+        "textures": "weathered_chiseled_copper"
+    },
+    "waxed_oxidized_chiseled_copper": {
+        "carried_textures": "waxed_oxidized_chiseled_copper_carried",
+        "textures": "oxidized_chiseled_copper"
+    },
+    "copper_chest": {
+        "textures": {
+            "down": "copper_chest_inventory_top",
+            "east": "copper_chest_inventory_side",
+            "north": "copper_chest_inventory_side",
+            "south": "copper_chest_inventory_front",
+            "up": "copper_chest_inventory_top",
+            "west": "copper_chest_inventory_side"
+        }
+    },
+    "exposed_copper_chest": {
+        "textures": {
+            "down": "exposed_copper_chest_inventory_top",
+            "east": "exposed_copper_chest_inventory_side",
+            "north": "exposed_copper_chest_inventory_side",
+            "south": "exposed_copper_chest_inventory_front",
+            "up": "exposed_copper_chest_inventory_top",
+            "west": "exposed_copper_chest_inventory_side"
+        }
+    },
+    "weathered_copper_chest": {
+        "textures": {
+            "down": "weathered_copper_chest_inventory_top",
+            "east": "weathered_copper_chest_inventory_side",
+            "north": "weathered_copper_chest_inventory_side",
+            "south": "weathered_copper_chest_inventory_front",
+            "up": "weathered_copper_chest_inventory_top",
+            "west": "weathered_copper_chest_inventory_side"
+        }
+    },
+    "oxidized_copper_chest": {
+        "textures": {
+            "down": "oxidized_copper_chest_inventory_top",
+            "east": "oxidized_copper_chest_inventory_side",
+            "north": "oxidized_copper_chest_inventory_side",
+            "south": "oxidized_copper_chest_inventory_front",
+            "up": "oxidized_copper_chest_inventory_top",
+            "west": "oxidized_copper_chest_inventory_side"
+        }
+    },
+    "waxed_copper_chest": {
+        "textures": {
+            "down": "waxed_copper_chest_inventory_top",
+            "east": "waxed_copper_chest_inventory_side",
+            "north": "waxed_copper_chest_inventory_side",
+            "south": "waxed_copper_chest_inventory_front",
+            "up": "waxed_copper_chest_inventory_top",
+            "west": "waxed_copper_chest_inventory_side"
+        }
+    },
+    "waxed_exposed_copper_chest": {
+        "textures": {
+            "down": "waxed_exposed_copper_chest_inventory_top",
+            "east": "waxed_exposed_copper_chest_inventory_side",
+            "north": "waxed_exposed_copper_chest_inventory_side",
+            "south": "waxed_exposed_copper_chest_inventory_front",
+            "up": "waxed_exposed_copper_chest_inventory_top",
+            "west": "waxed_exposed_copper_chest_inventory_side"
+        }
+    },
+    "waxed_weathered_copper_chest": {
+        "textures": {
+            "down": "waxed_weathered_copper_chest_inventory_top",
+            "east": "waxed_weathered_copper_chest_inventory_side",
+            "north": "waxed_weathered_copper_chest_inventory_side",
+            "south": "waxed_weathered_copper_chest_inventory_front",
+            "up": "waxed_weathered_copper_chest_inventory_top",
+            "west": "waxed_weathered_copper_chest_inventory_side"
+        }
+    },
+    "waxed_oxidized_copper_chest": {
+        "textures": {
+            "down": "waxed_oxidized_copper_chest_inventory_top",
+            "east": "waxed_oxidized_copper_chest_inventory_side",
+            "north": "waxed_oxidized_copper_chest_inventory_side",
+            "south": "waxed_oxidized_copper_chest_inventory_front",
+            "up": "waxed_oxidized_copper_chest_inventory_top",
+            "west": "waxed_oxidized_copper_chest_inventory_side"
+        }
+    },
     "copper_door": {
         "textures": {
             "up": "copper_door_bottom",
@@ -1080,6 +1671,34 @@
             "down": "oxidized_copper_door_bottom",
             "side": "oxidized_copper_door_top"
         }
+    },
+    "copper_trapdoor": {
+        "textures": "copper_trapdoor"
+    },
+    "exposed_copper_trapdoor": {
+        "textures": "exposed_copper_trapdoor"
+    },
+    "weathered_copper_trapdoor": {
+        "textures": "weathered_copper_trapdoor"
+    },
+    "oxidized_copper_trapdoor": {
+        "textures": "oxidized_copper_trapdoor"
+    },
+    "waxed_copper_trapdoor": {
+        "carried_textures": "waxed_copper_trapdoor_carried",
+        "textures": "copper_trapdoor"
+    },
+    "waxed_exposed_copper_trapdoor": {
+        "carried_textures": "waxed_exposed_copper_trapdoor_carried",
+        "textures": "exposed_copper_trapdoor"
+    },
+    "waxed_weathered_copper_trapdoor": {
+        "carried_textures": "waxed_weathered_copper_trapdoor_carried",
+        "textures": "weathered_copper_trapdoor"
+    },
+    "waxed_oxidized_copper_trapdoor": {
+        "carried_textures": "waxed_oxidized_copper_trapdoor_carried",
+        "textures": "oxidized_copper_trapdoor"
     },
     "waxed_copper_chain": {
         "carried_textures": "waxed_copper_chain_carried",
@@ -1148,13 +1767,6 @@
     "acacia_button": {
         "textures": "acacia_planks"
     },
-    "acacia_door": {
-        "textures": {
-            "down": "door_lower",
-            "side": "door_upper",
-            "up": "door_lower"
-        }
-    },
     "acacia_fence_gate": {
         "textures": "acacia_planks"
     },
@@ -1173,9 +1785,6 @@
     },
     "acacia_standing_sign": {
         "textures": "acacia_planks"
-    },
-    "acacia_trapdoor": {
-        "textures": "acacia_trapdoor"
     },
     "acacia_wall_sign": {
         "textures": "acacia_planks"
@@ -1221,28 +1830,6 @@
             "west": "potted_azalea_bush_plant"
         }
     },
-    "azalea_leaves": {
-        "isotropic": {
-            "down": true,
-            "up": true
-        },
-        "textures": {
-            "down": "azalea_leaves_top",
-            "side": "azalea_leaves_side",
-            "up": "azalea_leaves_top"
-        }
-    },
-    "azalea_leaves_flowered": {
-        "isotropic": {
-            "down": true,
-            "up": true
-        },
-        "textures": {
-            "down": "azalea_leaves_flowered_top",
-            "side": "azalea_leaves_flowered_side",
-            "up": "azalea_leaves_flowered_top"
-        }
-    },
     "bamboo": {
         "carried_textures": "bamboo_carried",
         "textures": {
@@ -1263,13 +1850,6 @@
     },
     "bamboo_button": {
         "textures": "bamboo_planks"
-    },
-    "bamboo_door": {
-        "textures": {
-            "down": "bamboo_door_bottom",
-            "side": "bamboo_door_top",
-            "up": "bamboo_door_bottom"
-        }
     },
     "bamboo_double_slab": {
         "textures": "bamboo_planks_ds"
@@ -1313,9 +1893,6 @@
     },
     "bamboo_standing_sign": {
         "textures": "bamboo_sign"
-    },
-    "bamboo_trapdoor": {
-        "textures": "bamboo_trapdoor"
     },
     "bamboo_wall_sign": {
         "textures": "bamboo_sign"
@@ -1387,13 +1964,6 @@
     "birch_button": {
         "textures": "birch_planks"
     },
-    "birch_door": {
-        "textures": {
-            "down": "door_lower",
-            "side": "door_upper",
-            "up": "door_lower"
-        }
-    },
     "birch_fence_gate": {
         "textures": "birch_planks"
     },
@@ -1412,9 +1982,6 @@
     },
     "birch_standing_sign": {
         "textures": "birch_planks"
-    },
-    "birch_trapdoor": {
-        "textures": "birch_trapdoor"
     },
     "birch_wall_sign": {
         "textures": "birch_planks"
@@ -1634,13 +2201,6 @@
     "cherry_button": {
         "textures": "cherry_planks"
     },
-    "cherry_door": {
-        "textures": {
-            "down": "cherry_door_bottom",
-            "side": "cherry_door_top",
-            "up": "cherry_door_bottom"
-        }
-    },
     "cherry_double_slab": {
         "textures": {
             "down": "cherry_planks_top",
@@ -1656,9 +2216,6 @@
     },
     "cherry_hanging_sign": {
         "textures": "cherry_sign"
-    },
-    "cherry_leaves": {
-        "textures": "cherry_leaves"
     },
     "cherry_planks": {
         "textures": "cherry_planks"
@@ -1682,9 +2239,6 @@
     },
     "cherry_standing_sign": {
         "textures": "cherry_sign"
-    },
-    "cherry_trapdoor": {
-        "textures": "cherry_trapdoor"
     },
     "cherry_wall_sign": {
         "textures": "cherry_sign"
@@ -1815,10 +2369,6 @@
     "conduit": {
         "textures": "conduit"
     },
-    "copper_block": {
-        "isotropic": false,
-        "textures": "copper_block"
-    },
     "copper_ore": {
         "isotropic": false,
         "textures": "copper_ore"
@@ -1849,13 +2399,6 @@
     },
     "crimson_button": {
         "textures": "crimson_planks"
-    },
-    "crimson_door": {
-        "textures": {
-            "down": "crimson_door_lower",
-            "side": "crimson_door_top",
-            "up": "crimson_door_lower"
-        }
     },
     "crimson_double_slab": {
         "textures": {
@@ -1927,27 +2470,12 @@
             "west": "crimson_log_side"
         }
     },
-    "crimson_trapdoor": {
-        "textures": "crimson_trapdoor"
-    },
     "crimson_wall_sign": {
         "textures": "crimson_sign"
     },
     "crying_obsidian": {
         "isotropic": false,
         "textures": "crying_obsidian"
-    },
-    "cut_copper": {
-        "isotropic": false,
-        "textures": "cut_copper"
-    },
-    "cut_copper_slab": {
-        "isotropic": false,
-        "textures": "cut_copper"
-    },
-    "cut_copper_stairs": {
-        "isotropic": false,
-        "textures": "cut_copper"
     },
     "cyan_glazed_terracotta": {
         "textures": "cyan_glazed_terracotta"
@@ -1957,13 +2485,6 @@
     },
     "dark_oak_button": {
         "textures": "dark_oak_planks"
-    },
-    "dark_oak_door": {
-        "textures": {
-            "down": "door_lower",
-            "side": "door_upper",
-            "up": "door_lower"
-        }
     },
     "dark_oak_fence_gate": {
         "textures": "dark_oak_planks"
@@ -1980,9 +2501,6 @@
             "side": "stair_dark_oak_side",
             "up": "stair_dark_oak_top"
         }
-    },
-    "dark_oak_trapdoor": {
-        "textures": "dark_oak_trapdoor"
     },
     "dark_prismarine_stairs": {
         "textures": {
@@ -2151,14 +2669,6 @@
             "south": "dispenser_front_horizontal",
             "up": "dispenser_top",
             "west": "dispenser_side"
-        }
-    },
-    "double_cut_copper_slab": {
-        "isotropic": false,
-        "textures": {
-            "down": "cut_copper_top",
-            "side": "cut_copper_side",
-            "up": "cut_copper_top"
         }
     },
     "double_stone_slab": {
@@ -2656,30 +3166,6 @@
             "west": "ender_chest_inventory_side"
         }
     },
-    "exposed_copper": {
-        "isotropic": false,
-        "textures": "exposed_copper"
-    },
-    "exposed_cut_copper": {
-        "isotropic": false,
-        "textures": "exposed_cut_copper"
-    },
-    "exposed_cut_copper_slab": {
-        "isotropic": false,
-        "textures": "exposed_cut_copper"
-    },
-    "exposed_cut_copper_stairs": {
-        "isotropic": false,
-        "textures": "exposed_cut_copper"
-    },
-    "exposed_double_cut_copper_slab": {
-        "isotropic": false,
-        "textures": {
-            "down": "exposed_cut_copper_top",
-            "side": "exposed_cut_copper_side",
-            "up": "exposed_cut_copper_top"
-        }
-    },
     "farmland": {
         "textures": {
             "down": "dirt",
@@ -2953,18 +3439,8 @@
     "iron_block": {
         "textures": "iron_block"
     },
-    "iron_door": {
-        "textures": {
-            "down": "door_lower",
-            "side": "door_upper",
-            "up": "door_lower"
-        }
-    },
     "iron_ore": {
         "textures": "iron_ore"
-    },
-    "iron_trapdoor": {
-        "textures": "iron_trapdoor"
     },
     "jigsaw": {
         "textures": {
@@ -2986,13 +3462,6 @@
     "jungle_button": {
         "textures": "jungle_planks"
     },
-    "jungle_door": {
-        "textures": {
-            "down": "door_lower",
-            "side": "door_upper",
-            "up": "door_lower"
-        }
-    },
     "jungle_fence_gate": {
         "textures": "jungle_planks"
     },
@@ -3011,9 +3480,6 @@
     },
     "jungle_standing_sign": {
         "textures": "jungle_planks"
-    },
-    "jungle_trapdoor": {
-        "textures": "jungle_trapdoor"
     },
     "jungle_wall_sign": {
         "textures": "jungle_planks"
@@ -3057,38 +3523,6 @@
             "south": "cauldron_inner",
             "up": "cauldron_top",
             "west": "cauldron_water"
-        }
-    },
-    "leaves": {
-        "carried_textures": {
-            "down": "leaves_top_carried",
-            "side": "leaves_side_carried",
-            "up": "leaves_top_carried"
-        },
-        "isotropic": {
-            "down": true,
-            "up": true
-        },
-        "textures": {
-            "down": "leaves_top",
-            "side": "leaves_side",
-            "up": "leaves_top"
-        }
-    },
-    "leaves2": {
-        "carried_textures": {
-            "down": "leaves_top_carried2",
-            "side": "leaves_side_carried2",
-            "up": "leaves_top_carried2"
-        },
-        "isotropic": {
-            "down": true,
-            "up": true
-        },
-        "textures": {
-            "down": "leaves2_top",
-            "side": "leaves2_side",
-            "up": "leaves2_top"
         }
     },
     "lectern": {
@@ -3235,13 +3669,6 @@
     "mangrove_button": {
         "textures": "mangrove_planks"
     },
-    "mangrove_door": {
-        "textures": {
-            "down": "mangrove_door_bottom",
-            "side": "mangrove_door_top",
-            "up": "mangrove_door_bottom"
-        }
-    },
     "mangrove_double_slab": {
         "textures": {
             "down": "mangrove_planks_top",
@@ -3257,23 +3684,6 @@
     },
     "mangrove_hanging_sign": {
         "textures": "mangrove_sign"
-    },
-    "mangrove_leaves": {
-        "brightness_gamma": 0.8,
-        "carried_textures": {
-            "down": "mangrove_leaves_top_carried",
-            "side": "mangrove_leaves_side_carried",
-            "up": "mangrove_leaves_top_carried"
-        },
-        "isotropic": {
-            "down": true,
-            "up": true
-        },
-        "textures": {
-            "down": "mangrove_leaves_top",
-            "side": "mangrove_leaves_side",
-            "up": "mangrove_leaves_top"
-        }
     },
     "mangrove_log": {
         "textures": {
@@ -3314,9 +3724,6 @@
     },
     "mangrove_standing_sign": {
         "textures": "mangrove_sign"
-    },
-    "mangrove_trapdoor": {
-        "textures": "mangrove_trapdoor"
     },
     "mangrove_wall_sign": {
         "textures": "mangrove_sign"
@@ -3483,30 +3890,6 @@
     },
     "orange_wool": {
         "textures": "orange_wool"
-    },
-    "oxidized_copper": {
-        "isotropic": false,
-        "textures": "oxidized_copper"
-    },
-    "oxidized_cut_copper": {
-        "isotropic": false,
-        "textures": "oxidized_cut_copper"
-    },
-    "oxidized_cut_copper_slab": {
-        "isotropic": false,
-        "textures": "oxidized_cut_copper"
-    },
-    "oxidized_cut_copper_stairs": {
-        "isotropic": false,
-        "textures": "oxidized_cut_copper"
-    },
-    "oxidized_double_cut_copper_slab": {
-        "isotropic": false,
-        "textures": {
-            "down": "oxidized_cut_copper_top",
-            "side": "oxidized_cut_copper_side",
-            "up": "oxidized_cut_copper_top"
-        }
     },
     "packed_ice": {
         "textures": "packed_ice"
@@ -4074,13 +4457,6 @@
     "spruce_button": {
         "textures": "spruce_planks"
     },
-    "spruce_door": {
-        "textures": {
-            "down": "door_lower",
-            "side": "door_upper",
-            "up": "door_lower"
-        }
-    },
     "spruce_fence_gate": {
         "textures": "spruce_planks"
     },
@@ -4099,9 +4475,6 @@
     },
     "spruce_standing_sign": {
         "textures": "spruce_planks"
-    },
-    "spruce_trapdoor": {
-        "textures": "spruce_trapdoor"
     },
     "spruce_wall_sign": {
         "textures": "spruce_planks"
@@ -4356,9 +4729,6 @@
             "up": "tnt_top"
         }
     },
-    "trapdoor": {
-        "textures": "trapdoor"
-    },
     "trapped_chest": {
         "textures": {
             "down": "trapped_chest_inventory_top",
@@ -4437,13 +4807,6 @@
     "warped_button": {
         "textures": "warped_planks"
     },
-    "warped_door": {
-        "textures": {
-            "down": "warped_door_lower",
-            "side": "warped_door_top",
-            "up": "warped_door_lower"
-        }
-    },
     "warped_double_slab": {
         "textures": {
             "down": "warped_planks_top",
@@ -4514,9 +4877,6 @@
             "west": "warped_stem_side"
         }
     },
-    "warped_trapdoor": {
-        "textures": "warped_trapdoor"
-    },
     "warped_wall_sign": {
         "textures": "warped_sign"
     },
@@ -4533,162 +4893,6 @@
     "waterlily": {
         "carried_textures": "waterlily_carried",
         "textures": "waterlily"
-    },
-    "waxed_copper": {
-        "isotropic": false,
-        "carried_textures": "waxed_copper_block",
-        "textures": "copper_block"
-    },
-    "waxed_cut_copper": {
-        "isotropic": false,
-        "carried_textures": "waxed_cut_copper",
-        "textures": "cut_copper"
-    },
-    "waxed_cut_copper_slab": {
-        "isotropic": false,
-        "carried_textures": "waxed_cut_copper",
-        "textures": "cut_copper"
-    },
-    "waxed_cut_copper_stairs": {
-        "isotropic": false,
-        "carried_textures": "waxed_cut_copper",
-        "textures": "cut_copper"
-    },
-    "waxed_double_cut_copper_slab": {
-        "isotropic": false,
-        "carried_textures": {
-            "down": "waxed_cut_copper_top",
-            "side": "waxed_cut_copper_side",
-            "up": "waxed_cut_copper_top"
-        },
-        "textures": {
-            "down": "cut_copper_top",
-            "side": "cut_copper_side",
-            "up": "cut_copper_top"
-        }
-    },
-    "waxed_exposed_copper": {
-        "isotropic": false,
-        "carried_textures": "waxed_exposed_copper",
-        "textures": "exposed_copper"
-    },
-    "waxed_exposed_cut_copper": {
-        "isotropic": false,
-        "carried_textures": "waxed_exposed_cut_copper",
-        "textures": "exposed_cut_copper"
-    },
-    "waxed_exposed_cut_copper_slab": {
-        "isotropic": false,
-        "carried_textures": "waxed_exposed_cut_copper",
-        "textures": "exposed_cut_copper"
-    },
-    "waxed_exposed_cut_copper_stairs": {
-        "isotropic": false,
-        "carried_textures": "waxed_exposed_cut_copper",
-        "textures": "exposed_cut_copper"
-    },
-    "waxed_exposed_double_cut_copper_slab": {
-        "isotropic": false,
-        "carried_textures": {
-            "down": "waxed_exposed_cut_copper_top",
-            "side": "waxed_exposed_cut_copper_side",
-            "up": "waxed_exposed_cut_copper_top"
-        },
-        "textures": {
-            "down": "exposed_cut_copper_top",
-            "side": "exposed_cut_copper_side",
-            "up": "exposed_cut_copper_top"
-        }
-    },
-    "waxed_oxidized_copper": {
-        "isotropic": false,
-        "carried_textures": "waxed_oxidized_copper",
-        "textures": "oxidized_copper"
-    },
-    "waxed_oxidized_cut_copper": {
-        "isotropic": false,
-        "carried_textures": "waxed_oxidized_cut_copper",
-        "textures": "oxidized_cut_copper"
-    },
-    "waxed_oxidized_cut_copper_slab": {
-        "isotropic": false,
-        "carried_textures": "waxed_oxidized_cut_copper",
-        "textures": "oxidized_cut_copper"
-    },
-    "waxed_oxidized_cut_copper_stairs": {
-        "isotropic": false,
-        "carried_textures": "waxed_oxidized_cut_copper",
-        "textures": "oxidized_cut_copper"
-    },
-    "waxed_oxidized_double_cut_copper_slab": {
-        "isotropic": false,
-        "carried_textures": {
-            "down": "waxed_oxidized_cut_copper_top",
-            "side": "waxed_oxidized_cut_copper_side",
-            "up": "waxed_oxidized_cut_copper_top"
-        },
-        "textures": {
-            "down": "oxidized_cut_copper_top",
-            "side": "oxidized_cut_copper_side",
-            "up": "oxidized_cut_copper_top"
-        }
-    },
-    "waxed_weathered_copper": {
-        "isotropic": false,
-        "carried_textures": "waxed_weathered_copper",
-        "textures": "weathered_copper"
-    },
-    "waxed_weathered_cut_copper": {
-        "isotropic": false,
-        "carried_textures": "waxed_weathered_cut_copper",
-        "textures": "weathered_cut_copper"
-    },
-    "waxed_weathered_cut_copper_slab": {
-        "isotropic": false,
-        "carried_textures": "waxed_weathered_cut_copper",
-        "textures": "weathered_cut_copper"
-    },
-    "waxed_weathered_cut_copper_stairs": {
-        "isotropic": false,
-        "carried_textures": "waxed_weathered_cut_copper",
-        "textures": "weathered_cut_copper"
-    },
-    "waxed_weathered_double_cut_copper_slab": {
-        "isotropic": false,
-        "carried_textures": {
-            "down": "waxed_weathered_cut_copper_top",
-            "side": "waxed_weathered_cut_copper_side",
-            "up": "waxed_weathered_cut_copper_top"
-        },
-        "textures": {
-            "down": "weathered_cut_copper_top",
-            "side": "weathered_cut_copper_side",
-            "up": "weathered_cut_copper_top"
-        }
-    },
-    "weathered_copper": {
-        "isotropic": false,
-        "textures": "weathered_copper"
-    },
-    "weathered_cut_copper": {
-        "isotropic": false,
-        "textures": "weathered_cut_copper"
-    },
-    "weathered_cut_copper_slab": {
-        "isotropic": false,
-        "textures": "weathered_cut_copper"
-    },
-    "weathered_cut_copper_stairs": {
-        "isotropic": false,
-        "textures": "weathered_cut_copper"
-    },
-    "weathered_double_cut_copper_slab": {
-        "isotropic": false,
-        "textures": {
-            "down": "weathered_cut_copper_top",
-            "side": "weathered_cut_copper_side",
-            "up": "weathered_cut_copper_top"
-        }
     },
     "weeping_vines": {
         "carried_textures": "weeping_vines_carried",
@@ -4715,13 +4919,6 @@
     },
     "wooden_button": {
         "textures": "planks"
-    },
-    "wooden_door": {
-        "textures": {
-            "down": "door_lower",
-            "side": "door_upper",
-            "up": "door_lower"
-        }
     },
     "wooden_pressure_plate": {
         "textures": "planks"
